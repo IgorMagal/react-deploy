@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-
 import classes from "./PostList.module.css";
 
 function PostList({ posts }) {
